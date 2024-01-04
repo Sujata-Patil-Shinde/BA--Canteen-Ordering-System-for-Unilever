@@ -79,11 +79,16 @@ deduct money from the employee’s salary.
 **Management would like the following reports:**
 
 • Which dishes are the most popular?
+
 • How many employees are using the system?
+
 • Satisfaction of the employees on using the system. This should be 
 tracked on the basis of feedback submitted by the employees.
+
 • Sales for each day
+
 • Total monthly earnings
+
 • Order forecasting i.e. a prediction of which items will be ordered and 
 when they will be ordered.
 
